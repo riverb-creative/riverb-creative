@@ -5,7 +5,9 @@
 
 <h2>👨‍💻 JavaScript Projects:</h2>
 
-[Choose Your Own Adventure](https://github.com/riverb-creative/ChooseYourOwnAdventure)
+[Choose Your Own Adventure](https://github.com/riverb-creative/ChooseYourOwnAdventure) 
+<br>
+<br>
 [Test Score Calculator](https://github.com/riverb-creative/TestScoreCalculator)
 
 
