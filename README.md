@@ -13,7 +13,8 @@
 <br>
 [Currency Conversion Calculator](https://github.com/riverb-creative/CurrencyConversionCalculator)
 
-
+<p><i><b>More JavaScript Coming Soon</b></i></p>
 <h2>:art: Art Projects:</h2>
+<h3><i><b>Coming Soon</b></i></h3>
 
 
