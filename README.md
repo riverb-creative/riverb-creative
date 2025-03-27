@@ -6,6 +6,7 @@
 <h2>👨‍💻 JavaScript Projects:</h2>
 
 [Choose Your Own Adventure](https://github.com/riverb-creative/ChooseYourOwnAdventure)
+[Test Score Calculator](https://github.com/riverb-creative/TestScoreCalculator)
 
 
 <h2>:art: Art Projects:</h2>
