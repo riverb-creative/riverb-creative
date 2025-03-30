@@ -12,6 +12,9 @@
 <br>
 <br>
 [Currency Conversion Calculator](https://github.com/riverb-creative/CurrencyConversionCalculator)
+<br>
+<br>
+[Bon Marché Flights](https://github.com/riverb-creative/BonMarcheFlights)
 
 <p><i><b>More JavaScript Coming Soon</b></i></p>
 <h2>:art: Art Projects:</h2>
