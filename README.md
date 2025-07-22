@@ -15,11 +15,7 @@
 <br>
 <br>
 [Bon Marché Flights](https://github.com/riverb-creative/BonMarcheFlights)
-
 <p><i><b>More JavaScript Coming Soon</b></i></p>
 <h2>:art: Art Projects:</h2>
-<br>
-[Bon Marché Flights](https://github.com/riverb-creative/BonMarcheFlights)
 
-
-
+[Graphic Design Portfolio](https://www.canva.com/design/DAGqjzL1-a4/VfYrrNR8yfHvLEnTAaZoqA/edit)
