@@ -18,6 +18,8 @@
 
 <p><i><b>More JavaScript Coming Soon</b></i></p>
 <h2>:art: Art Projects:</h2>
-<h3><i><b>Coming Soon</b></i></h3>
+<br>
+[Graphic Design Portfolio](https://www.canva.com/design/DAGqjzL1-a4/VfYrrNR8yfHvLEnTAaZoqA/edit?utm_content=DAGqjzL1-a4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
